@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ronnieb254
-- 👀 I’m interested in website development
-- 🌱 I’m currently working with javascript (Vue Js, React Js, Node Js), python (FastApi) ,PHP (Lumen) currently learning machine laerning
+- 👀 I’m a full-stack developer
+- 🌱 I’m currently working with javascript (Vue Js, React Js, Node Js, Apollo graphQL), python (FastApi) , PHP (Lumen) currently learning machine learning with UIPath
 - 💞️ I’m looking to collaborate on development with other developers
 - 📫 How to reach me on https://twitter.com/miss_bironga
 
